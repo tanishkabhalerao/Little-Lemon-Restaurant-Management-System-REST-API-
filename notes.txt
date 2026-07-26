@@ -1,0 +1,17 @@
+Little Lemon Backend API
+
+Superuser
+Username: admin
+Password: Admin@123
+
+Manager
+Username: manager
+Password: TANA4567
+
+Delivery Crew
+Username: delivery
+Password: Lemon@123
+
+Customer
+Username: customer
+Password: Welcome@123
